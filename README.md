@@ -6,3 +6,4 @@ REmote
 end of file
 line 7
 line 2
+local ch
